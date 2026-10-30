@@ -1,76 +1,101 @@
 
-<h1 align="center">Hi, I'm Riya Sharma 👋</h1>
-<h3 align="center">Third-Year B.Tech CSE Student | Aspiring Full-Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  Building practical web applications and learning by creating projects.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=180&section=header&text=Riya%20Sharma&fontSize=48&fontColor=5C4141&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/riya7168">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sharma-riyaa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+### ✿ Hello, welcome to my little corner of GitHub ✿
+
+*Computer Science student • Developer in progress • Lifelong learner*
+
+[![GitHub](https://img.shields.io/badge/GitHub-riya7168-5C4141?style=flat-square&logo=github&logoColor=white)](https://github.com/riya7168)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CB8585?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharma-riyaa/)
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌷 A little about me
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering
-- 💻 Interested in full-stack web development
-- 🌱 Currently learning React, Next.js, Node.js and DSA
-- 🛠️ Enjoy building projects that solve practical problems
-- 🎯 Working towards becoming a placement-ready software developer
+Hi! I'm **Riya**, a third-year B.Tech Computer Science and Engineering student who enjoys turning ideas into practical web applications.
 
-## 🧰 Tech Stack
+- 🎓 Studying Computer Science and Engineering
+- 💻 Exploring full-stack web development
+- 🌱 Learning DSA, backend development and software engineering
+- ✨ Interested in building useful, user-friendly applications
+- 🎯 Working towards becoming a placement-ready developer
 
-**Languages**
-- C++, JavaScript, Java
+## 🎀 My tech stack
 
-**Frontend**
-- HTML, CSS, React.js, Next.js, Tailwind CSS
-
-**Backend & Database**
-- Node.js, Express.js, MongoDB, REST APIs
-
-**Tools**
-- Git, GitHub, VS Code, Vercel
-
-## 🚀 Featured Projects
-
-### 1. Inventory Management System
-Product management, stock tracking, CRUD operations,
-low-stock alerts and audit logging.
-
-🔗 [View Repository](https://github.com/riya7168/Inventory-Management-System)
-
-### 2. Compostify
-A waste and compost management platform with
-user and admin functionality.
-
-🔗 [Explore My Repositories](https://github.com/riya7168?tab=repositories)
-
-### 3. AI Comic Universe Builder
-An AI-assisted comic creation project using a Node.js
-backend and REST APIs.
-
-🔗 [Explore My Repositories](https://github.com/riya7168?tab=repositories)
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya7168&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,cpp,java,git,github,vscode&perline=7" alt="Technologies and tools" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya7168&layout=compact&hide_border=true&theme=default" alt="Most used languages" />
-</p>
+## 🧸 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Inventory Management System
+
+A project for managing products, inventory and stock activity.
+
+- Product management and CRUD operations
+- Search and stock tracking
+- Low-stock alerts and audit logs
+
+**Tech:** JavaScript, Node.js, C++, CSV/JSON
+
+[↗ View project](https://github.com/riya7168/Inventory-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Compostify
+
+A waste and compost management application focused on connecting users with compost-related services.
+
+- User and admin functionality
+- Frontend and backend integration
+- Database-backed application features
+
+**Tech:** MERN stack
+
+[↗ Explore my repositories](https://github.com/riya7168?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎨 AI Comic Universe Builder
+
+An AI-assisted comic creation project using a backend and API integrations.
+
+**Tech:** Node.js, Express.js, REST APIs
+
+[↗ Explore my repositories](https://github.com/riya7168?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## 🌸 GitHub at a glance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riya7168&show_icons=true&hide_border=true&bg_color=FFF8F5&title_color=B76E79&icon_color=CB8585&text_color=5C4141" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya7168&layout=compact&hide_border=true&bg_color=FFF8F5&title_color=B76E79&text_color=5C4141" height="165" alt="Most used languages" />
+
+</div>
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile! ✨
-</p>
+<div align="center">
+
+*“Little by little, a little becomes a lot.”* 🌷
+
+Thanks for stopping by. Have a lovely day!
+
+</div>
